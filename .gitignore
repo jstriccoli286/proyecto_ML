@@ -1,0 +1,8 @@
+*.csv
+*.pkl
+*.cfg
+
+venv-proyectoML/
+bin/
+lib/
+share/
